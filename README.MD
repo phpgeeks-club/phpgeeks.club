@@ -1,1 +1,2 @@
-Все по ссылке [telegramphp.github.io](//telegramphp.github.io)
+## Правила чата phpGeeks
+Все по ссылке [phpgeeks.club](http://phpgeeks.club)
